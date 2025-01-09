@@ -1,1 +1,1 @@
-# lolsaless.gitub.io
+# lolsaless.github.io
