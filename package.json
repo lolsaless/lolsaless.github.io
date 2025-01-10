@@ -1,0 +1,20 @@
+{
+  "name": "lolsaless.github.io",
+  "version": "1.0.0",
+  "description": "<a href=\"https://jekyll-themes.com\">   <img src=\"https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg\" height=\"20\" alt=\"Jekyll Themes Shield\" > </a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lolsaless/lolsaless.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lolsaless/lolsaless.github.io/issues"
+  },
+  "homepage": "https://github.com/lolsaless/lolsaless.github.io#readme"
+}
