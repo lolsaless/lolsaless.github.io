@@ -3,11 +3,6 @@ layout: post
 title: Testing MathJax
 tags: mathjax
 math: true
-date: 2025-01-10 12:15 +0800
+date: 2020-10-02 12:15 +0800
 ---
 안녕하세요. 깃허브 페이지를 오픈했습니다. 신기합니다.
-
-$$
-i\hbar \frac{\partial \Psi}{\partial t} = -\frac{\hbar^2}{2m}
-\frac{\partial^2 \Psi}{\partial x^2} + V \Psi
-$$
