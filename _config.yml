@@ -44,6 +44,8 @@ sass:
   sass_dir: _sass
   style: :compressed
 
+future: true
+
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
